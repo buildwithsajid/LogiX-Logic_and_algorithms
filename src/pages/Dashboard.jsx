@@ -81,7 +81,6 @@ export default function Dashboard() {
     <PageContainer
       title="Interactive DSA Laboratory"
       subtitle="Master Data Structures & Algorithms visually with synchronized Java reference code, step-by-step operation tracing, and performance benchmarking."
-      badge="College Syllabus Edition"
       actions={
         <div className="flex items-center gap-2">
           <Link to="/sorting-searching">

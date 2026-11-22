@@ -369,7 +369,6 @@ export default function AlgorithmRace() {
     <PageContainer
       title="Algorithm Race Arena"
       subtitle="Benchmark 2 to 4 sorting algorithms simultaneously on identical datasets with unified operation counting."
-      badge="Phase 5"
       actions={
         <div className="flex items-center gap-2">
           <Button

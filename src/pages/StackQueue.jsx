@@ -289,7 +289,7 @@ export default function StackQueue() {
     <PageContainer
       title="Stacks & Queues Lab"
       subtitle="Interactive LIFO and FIFO memory structures, pointer movements, and real-time overflow/underflow handling."
-      badge="Phase 3 Complete"
+      
     >
       {/* Structure Mode Selector Tabs */}
       <div className="flex flex-wrap gap-2 pb-1">

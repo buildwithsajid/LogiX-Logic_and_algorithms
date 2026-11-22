@@ -279,7 +279,6 @@ export default function Simulations() {
     <PageContainer
       title="Real-World Software Engineering Simulations"
       subtitle="Discover how classical data structures power production systems in healthcare, media streaming, web browsers, and logistics."
-      badge="Phase 8"
     >
       {/* Simulation Selector Bar */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-3">

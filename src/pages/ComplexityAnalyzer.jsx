@@ -107,7 +107,6 @@ export default function ComplexityAnalyzer() {
     <PageContainer
       title="Complexity Analyzer & Growth Curves"
       subtitle="Analyze theoretical asymptotic bounds, compare growth classes O(1) through O(2ⁿ), run live empirical operation counting, and inspect the master syllabus matrix."
-      badge="Phase 5"
     >
       {/* 1. Theoretical Asymptotic Growth Curves */}
       <Card>

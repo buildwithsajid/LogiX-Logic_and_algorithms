@@ -217,7 +217,6 @@ export default function Hashing() {
     <PageContainer
       title="Hashing Techniques & Collision Resolution"
       subtitle="Explore hash functions, open addressing linear probing, primary clustering, and dynamic load factor tracking."
-      badge="Phase 3 Ready"
     >
       {/* Hash Functions Tabs */}
       <div className="flex flex-wrap gap-2 pb-1">

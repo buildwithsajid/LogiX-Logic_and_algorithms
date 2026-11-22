@@ -168,7 +168,6 @@ export default function SortingSearching() {
     <PageContainer
       title="Sorting & Searching Lab"
       subtitle="Interactive step-by-step visual exploration of classic algorithms with real-time operation counters and synchronized Java reference code."
-      badge="Full Interactive Engine"
     >
       {/* Algorithm Selection Navigation Pills */}
       <div className="flex flex-wrap gap-2 pb-1">

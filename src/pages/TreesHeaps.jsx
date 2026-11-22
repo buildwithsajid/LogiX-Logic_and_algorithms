@@ -277,7 +277,6 @@ export default function TreesHeaps() {
     <PageContainer
       title="Trees & Heaps Lab"
       subtitle="Binary Search Tree properties, Inorder/Preorder/Postorder traversals, and Binary Min/Max Heaps with Reheap Up/Down."
-      badge="Phase 4 Complete"
     >
       {/* Mode Pills */}
       <div className="flex flex-wrap gap-2 pb-1">

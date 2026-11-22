@@ -138,7 +138,6 @@ export default function Graphs() {
     <PageContainer
       title="Graphs & Network Algorithms"
       subtitle="Adjacency matrix representations, BFS queue state, DFS recursion stacks, Dijkstra shortest paths, and Minimum Spanning Trees."
-      badge="Phase 4 Complete"
     >
       {/* Algorithm Pills */}
       <div className="flex flex-wrap items-center justify-between gap-3 pb-1">

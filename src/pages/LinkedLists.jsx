@@ -154,7 +154,6 @@ export default function LinkedLists() {
     <PageContainer
       title="Linked Lists & Pointer Structures"
       subtitle="Interactive node chains, pointer rewiring, bi-directional traversals, and polynomial arithmetic."
-      badge="Phase 3 Ready"
     >
       {/* Structure Mode Pills */}
       <div className="flex flex-wrap gap-2 pb-1">

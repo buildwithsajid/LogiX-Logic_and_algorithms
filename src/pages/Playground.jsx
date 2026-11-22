@@ -373,7 +373,6 @@ export default function Playground() {
     <PageContainer
       title="Custom Input Playground"
       subtitle="Experiment with custom datasets, edge-case numbers, and custom operation sequences with instant visual feedback."
-      badge="Phase 8"
     >
       {/* Mode Selector Tabs */}
       <div className="grid grid-cols-2 sm:grid-cols-5 gap-2.5 pb-2">
